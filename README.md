@@ -22,4 +22,4 @@ Create a private git repo and implement the following projet.
 4. Document source code with pydoc
 
 ## Interview Demo
-Questions will be asked about your different coding choices in the project and on any part of the repository.
+Interviewee will demonstrate the project in action and perfrom certion operation as requested. Questions will be asked about your different coding choices in the project and on any part of the repository.
