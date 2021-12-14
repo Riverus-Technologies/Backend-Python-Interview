@@ -1,5 +1,7 @@
 # Interview Project for Python backend developer
 
+Create a private git repo and implement the following projet.
+
 ## Goal
 1. Create a Django project
 2. Use Postgres as DB (in Docker container)
@@ -18,3 +20,6 @@
 2. Code coverage with coverage.py after all tests run - target for 100% code coverage (exclude all 3rd party libraries)
 3. Lint
 4. Document source code with pydoc
+
+## Interview Demo
+Questions will be asked about your different coding choices in the project and on any part of the repository.
