@@ -1,6 +1,6 @@
 # Interview Project for Python backend developer
 
-Create a private git repo and implement the following projet.
+Create a private git repo and implement the following project.
 
 ## Goal
 1. Create a Django project
@@ -17,9 +17,9 @@ Create a private git repo and implement the following projet.
 
 ## Quality Assurance
 1. Tests run in Git Action on all pull request commits
-2. Code coverage with coverage.py after all tests run - target for 100% code coverage (exclude all 3rd party libraries)
+2. Code coverage with coverage.py after all tests run - a target for 100% code coverage (exclude all 3rd party libraries)
 3. Lint
 4. Document source code with pydoc
 
 ## Interview Demo
-Interviewee will demonstrate the project in action and perfrom certion operation as requested. Questions will be asked about your different coding choices in the project and on any part of the repository.
+An interviewee will demonstrate the project in action and perform certain operations as requested. Questions will be asked about your different coding choices in the project and on any part of the repository.
