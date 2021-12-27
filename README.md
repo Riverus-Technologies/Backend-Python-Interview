@@ -1,4 +1,4 @@
-# Interview Project for Python backend developer
+# Interview Project for Python Backend Developer
 
 Create a private git repo and implement the following project.
 
