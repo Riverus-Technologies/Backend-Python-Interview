@@ -11,7 +11,7 @@ Create a private git repo and implement the following project.
     - Employee (person_id Foreign Key, department, role, line_manager person_id Foreign Key, created datetime, modified datetime)
 4. Django Admin views
     1. one for Person and Employee models
-    2. relevant fields should be seperately displayed in columns
+    2. relevant fields should be separately displayed in columns
     3. add filters for all fields
     4. sortable
 6. REST APIs to add, delete, modify single or multiple
@@ -53,7 +53,7 @@ _**include this README and check if completed or explain why it isn't done**_
 ### Selection Criteria
 1. Make sure that checklist above is complete
 2. In case any point on the checklist is failed to be accomplished please provide all attempt information and reason for failure in details
-3. Incomplete submissions without proper explanation or ducumentataion will be rejected
+3. Incomplete submissions without proper explanation or documentation will be rejected
 
 ## Code Evaluation
 Provide `walter-weinmann`, `c-bik` and `janmenjoyroy` with **read** access to your repository.
