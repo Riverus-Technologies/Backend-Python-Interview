@@ -9,18 +9,22 @@ Create a private git repo and implement the following project.
 3. Add tables:
     - Person (name, email, age, phone, address, created datetime, modified datetime)
     - Employee (person_id Foreign Key, department, role, line_manager person_id Foreign Key, created datetime, modified datetime)
-        - `person_id` refers to `id` of a person from the `Person` table
+
+    **Remark**: This simple data model allows the mapping of an employment structure for example in a company. Here `person_id` refers to `id` of a person from the `Person` table.
+
 4. Django Admin views
     1. one for Person and Employee models
     2. relevant fields should be separately displayed in columns
-    3. add filters for all fields (see: [https://docs.djangoproject.com/en/4.0/ref/contrib/admin/](https://docs.djangoproject.com/en/4.0/ref/contrib/admin/))
+    3. add filters for all fields (see here: [https://django-filter.readthedocs.io/en/stable/](https://django-filter.readthedocs.io/en/stable/))
     4. sortable
 6. REST APIs to add, delete, modify single or multiple
     - Person(s)
     - Employees(s) 
 7. REST APIs to bulk query Persons or Employees over any combinations of the fields of the two models
-8. Postman file demonstrating the REST APIs (see [https://apitransform.com/how-to-export-all-collections-from-postman/](https://apitransform.com/how-to-export-all-collections-from-postman/))
-9. Tests
+8. Postman file demonstrating the REST APIs. See:
+    - [https://apitransform.com/how-to-export-all-collections-from-postman/](https://apitransform.com/how-to-export-all-collections-from-postman/)
+    - [https://github.com/postmanlabs/newman](https://github.com/postmanlabs/newman)
+10. Tests
     1. Pytest ([https://pytest-django.readthedocs.io/en/latest/](https://pytest-django.readthedocs.io/en/latest/)) using Django APIClient
     2. One test.py for each view
     3. One integration test
