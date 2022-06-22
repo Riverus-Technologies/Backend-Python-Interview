@@ -61,7 +61,7 @@ _**include this README and check if completed or explain why it isn't done**_
 3. Incomplete submissions without proper explanation or documentation will be rejected
 
 ## Code Evaluation
-Provide `walter-weinmann`, `c-bik` and `janmenjoyroy` with **read** access to your repository.
+Provide `walter-weinmann`, `c-bik`, `janmenjoyroy` and `lakshmi-intechcode` with **read** access to your repository.
 
 ## Interview Demo
 An interviewee will demonstrate the project in action and perform certain operations as requested. Questions will be asked about your different coding choices in the project and on any part of the repository.
